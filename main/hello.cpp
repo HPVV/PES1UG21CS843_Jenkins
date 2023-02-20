@@ -4,6 +4,6 @@ using namespace std;
 
 int main(void) {
   cout << "PES1UG21CS843_VISHAL_S_SALANKE\n";
-  cout << "Changes made";
+  cout << "Changes made\n";
   return 0;
 }
